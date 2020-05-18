@@ -1,5 +1,5 @@
 # Occitanie_covid
-A short R program to upload data from ARS PDF and visualise data
+# A short R program to upload data from ARS PDF and visualise data
 # uploading data from the website
 # get URL from ARS website 
 
